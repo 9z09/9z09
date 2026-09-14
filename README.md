@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-
-</div>
-
----
-
 # 👋 Hi, I'm Peter
 
 ### 💻 Software Developer | Programmer
@@ -32,7 +22,6 @@ I enjoy building projects, learning new technologies, and turning ideas into rea
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
 ### 🔧 Tools
 
@@ -51,7 +40,6 @@ class AboutMe:
     languages = {
         "Python",
         "C++",
-        "JavaScript"
     }
 
     tools = {
@@ -82,17 +70,17 @@ Feel free to explore my repositories and follow my journey as I continue learnin
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/9z09">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=9z09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9z09&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=9z09\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
