@@ -66,7 +66,7 @@ Feel free to explore my repositories and follow my journey as I continue learnin
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=9z09\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+   ![Profile Views](https://komarev.com/ghpvc/?username=9z09\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -88,6 +88,6 @@ Feel free to explore my repositories and follow my journey as I continue learnin
 
 <div align="center">
 
-### 🚀 Keep Building. Keep Learning. Keep Improving.
+### 🕷️ The Great Power Come With Great Responsibilities.
 
 </div>
