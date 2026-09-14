@@ -66,20 +66,6 @@ Feel free to explore my repositories and follow my journey as I continue learnin
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/9z09">
-
-<img src="https://github-readme-stats.vercel.app/api?username=9z09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9z09&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</a>
-
-<br><br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=9z09\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
